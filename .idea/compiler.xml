@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Arrays_as_parameters-Sorting_numbers.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Identify_possible_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Safe_converting.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Implement_compareTo_method.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Implement_comparing_by_additional_fields.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Comparable-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Constructor-Account_and_its_owner.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Constructor-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Declaring_a_method-Division.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Declaring_a_method-Vowel_or_not.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Defining_classes-Accounts.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Defining_classes-Books.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Inheritance-Access_members_inside_child_classes.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Inheritance-Classes_for_Hospital.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Inheritance-Find_the_same_hierarchy.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Inheritance-Pet_inheritance.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Inheritance-The_lost_modifier.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Inheritance-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Instance_methods-Circle.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Instance_methods-Simulating_a_clock.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Interface-Account_Service.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Interface-Area_of_a_circle.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Interface-Mutable_geometric_shapes.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Interface-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Correct_the_program.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes_-_2.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_arguments.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_parameter_inside_a_class_body.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Avoid_NPE.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-When_NPE_cannot_occur.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Army.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Objects-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_main_method-Fixing_the_main_method__1_.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_main_method-Print__Hello,_Java_.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-What_is_an_exception-Avoid_division_by_zero.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
